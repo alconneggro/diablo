@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding: :0;
+}
+body{
+  background: url("../img/fondo10.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+           background-attachment: fixed;
+  height: 100%;
+  color:white;
+}
+.inicio{
+  background: rgba(00,00,,0.8);
+
+}
+
+article img{
+  width:75%;
+  height: auto;
+margin-left:12.5%;
+margin-right:12.5%;
+
+}
+
+label img{
+  width: 20px;
+  height: 20px;
+}
+}

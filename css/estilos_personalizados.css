@@ -1,0 +1,36 @@
+
+/*---------- CABECERA ----------*/
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: url("../imagenes/rosarito.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size:cover;
+           background-attachment: fixed;
+  height: 100%;
+}
+.flow-text{
+  color:white;
+  margin-left: 20px;
+}
+
+.material-icons{
+  color: black;
+
+}
+
+.fondo{
+	background-rgba:#d1bfdf;
+}
+.nav div menu{
+  background-rgba:black;
+}
+
+
+
+
+
+}
